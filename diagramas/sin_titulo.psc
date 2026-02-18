@@ -1,4 +1,5 @@
 Algoritmo sin_titulo
+<<<<<<< HEAD
 	Definir menu1, menu2, menu3 Como Entero
 	definir monto Como Real
 	menu1<-100
@@ -35,3 +36,16 @@ Algoritmo sin_titulo
 	leer final
 	Hasta Que (final==n)
 	
+=======
+	Definir monto Como Entero
+	definir gasto Como Entero
+	Escribir 'monto ingresado'
+	leer monto
+	Escribir 'monto restado'
+	Leer gasto
+	cambio<-(monto-gasto)
+	Escribir 'el saldo entregado' monto
+	Escribir 'el saldo entregado $' gasto
+	Escribir 'el camibio es de' cambio
+FinAlgoritmo
+>>>>>>> 2f56f378f9492ed0f38393a5cfc457c4aada39a5
